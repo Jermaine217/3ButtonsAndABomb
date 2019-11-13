@@ -1,0 +1,13 @@
+D:\Own Apps\GoVrek\GoVrek\bin\Debug\netstandard2.0\GoVrek.deps.json
+D:\Own Apps\GoVrek\GoVrek\bin\Debug\netstandard2.0\GoVrek.dll
+D:\Own Apps\GoVrek\GoVrek\bin\Debug\netstandard2.0\ref\GoVrek.dll
+D:\Own Apps\GoVrek\GoVrek\bin\Debug\netstandard2.0\GoVrek.pdb
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\GoVrek.csprojAssemblyReference.cache
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\GoVrek.AssemblyInfoInputs.cache
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\GoVrek.AssemblyInfo.cs
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\GoVrek.dll
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\ref\GoVrek.dll
+D:\Own Apps\GoVrek\GoVrek\obj\Debug\netstandard2.0\GoVrek.pdb
